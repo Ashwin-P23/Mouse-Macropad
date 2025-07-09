@@ -1,26 +1,26 @@
 # Mouse-Macropad
 A portable keyboard that moves along with your mouse, for easy one-handed key control. I am using the Logitech M720, so the outline of the shape in the middle of the casing and PCB is that of the mouse outline
 
-## Features
+## Properties
 - Four Key Design
 - RGB LED
 - Customizable keycaps/Hotswappable Switches
-- Compact and 
+- Compact and easily mobile
 
-## Overview
+## Overall Design
 ![Overall View](assets/Overall.png)
 
 ## PCB Layout
 ![PCB Layout](assets/PCB.png)
 
-## Schematic
+## Schematic Layout
 ![Schematic](assets/Schematic.png)
 
-## Case
+## Shell/Casing
 ![Case](assets/Case.png)
 
-# Bill of Materials (BOM)
-## Components List
+# (BOM)
+## Components
 
 | Discription | Quantity |
 |-----------|----------|
