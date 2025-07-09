@@ -1,5 +1,5 @@
-# Hexapad
-I named this project Hexapad because it uses a six key design!
+# Mouse-Macropad
+A portable keyboard that moves along with your mouse, for easy one-handed key control. I am using the Logitech M720, so the outline of the shape in the middle of the casing and PCB is that of the mouse outline
 
 ## Features
 - Four Key Design
