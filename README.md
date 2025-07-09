@@ -8,16 +8,16 @@ A portable keyboard that moves along with your mouse, for easy one-handed key co
 - Compact and 
 
 ## Overview
-![Overall View](assets/overall.png)
+![Overall View](assets/Overall.png)
 
 ## PCB Layout
-![PCB Layout](assets/pcb.png)
+![PCB Layout](assets/PCB.png)
 
 ## Schematic
-![Schematic](assets/schematic.png)
+![Schematic](assets/Schematic.png)
 
 ## Case
-![Case](assets/case.png)
+![Case](assets/Case.png)
 
 # Bill of Materials (BOM)
 ## Components List
