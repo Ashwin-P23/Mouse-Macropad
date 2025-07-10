@@ -24,8 +24,8 @@ A portable keyboard that moves along with your mouse, for easy one-handed key co
 
 | Discription | Quantity |
 |-----------|----------|
-| Cherry MX Switches | 4 | 
-| DSA keycaps | 4 | 
+| Cherry MX Switches | 5 | 
+| DSA keycaps | 5 | 
 | SK6812 MINI-E LEDs | 2 | 
 | XIAO RP2040 | 1 | 
 | 3D Printable Case (Top/Bottom) | 2 |
