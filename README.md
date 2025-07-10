@@ -2,7 +2,7 @@
 A portable keyboard that moves along with your mouse, for easy one-handed key control. I am using the Logitech M720, so the outline of the shape in the middle of the casing and PCB is that of the mouse outline
 
 ## Properties
-- Four Key Design
+- Five Key Design
 - RGB LED
 - Customizable keycaps/Hotswappable Switches
 - Compact and easily mobile
